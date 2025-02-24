@@ -56,7 +56,7 @@
 ---
 
 ### 👀 Profile Views
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DUDEKULARAHIM&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile View Counter" />
-</div>
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/DUDEKULARAHIM/count.svg" />
+</p>
 
