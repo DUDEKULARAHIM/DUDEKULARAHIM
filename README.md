@@ -55,7 +55,8 @@
 
 ---
 
-### 👀 Profile Views 
+### 👀 Profile Views
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DUDEKULARAHIM&icon=2&color=5" />
+  <img src="https://visitcount.itsvg.in/api?id=DUDEKULARAHIM&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile View Counter" />
 </div>
+
