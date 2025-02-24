@@ -1,6 +1,5 @@
 <!-- Dark Mode Toggle -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DUDEKULARAHIM%20)](https://git.io/streak-stats)
 
 <p align="center">
   <svg width="100%" height="100">
