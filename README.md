@@ -1,6 +1,10 @@
 <!-- Dark Mode Toggle -->
 
-![](https://github-readme-stats.vercel.app/api?username=DUDEKULARAHIM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <svg width="100%" height="100">
+    <rect width="100%" height="100%" fill="black"/>
+  </svg>
+</p>
 
 <h1 align="center">Hi 👋, I'm Dudekula Rahim</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
