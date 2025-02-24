@@ -1,5 +1,6 @@
 <!-- Dark Mode Toggle -->
 
+![](https://github-readme-stats.vercel.app/api?username=DUDEKULARAHIM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <h1 align="center">Hi 👋, I'm Dudekula Rahim</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
