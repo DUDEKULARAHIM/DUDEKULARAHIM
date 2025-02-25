@@ -1,7 +1,7 @@
 <!-- Dark Mode Toggle -->
 
 # 📄 Resume
-[![Resume](https://img.shields.io/badge/View%20My-Resume-blue?style=for-the-badge)](https://lpu-students-details.onrender.com/)
+[![Resume](https://img.shields.io/View%20My-Resume-blue?style=for-the-badge)](https://lpu-students-details.onrender.com/)
 
 
 
