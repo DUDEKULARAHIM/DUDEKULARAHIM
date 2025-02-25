@@ -1,7 +1,9 @@
 <!-- Dark Mode Toggle -->
 
 # 📄 Resume
-[![Resume](https://img.shields.io/View%20My-Resume-blue?style=for-the-badge)](https://lpu-students-details.onrender.com/)
+[![Project 1](https://img.shields.io/badge/View%20My-Resume-blue?style=for-the-badge)](https://lpu-students-details.onrender.com/)
+
+[![Project 2](https://img.shields.io/badge/View%20My-Resume-red?style=for-the-badge)](https://sample-restaurant-website.onrender.com/)
 
 
 
