@@ -24,7 +24,7 @@
 # 📄 TOP PROJECTS
 [![Project 1](https://img.shields.io/badge/Project1-blue?style=for-the-badge)](https://event-manager-calendar.onrender.com) [![Project 2](https://img.shields.io/badge/Project2-red?style=for-the-badge)](https://sample-restaurant-website.onrender.com/)
 
-[![Project 3](https://img.shields.io/badge/Project3-black?style=for-the-badge)](https://qr-bar-code-generator.onrender.com/) [![Project 4](https://img.shields.io/badge/Project2-green?style=for-the-badge)](https://gpa-calculator-qk2d.onrender.com/)
+[![Project 3](https://img.shields.io/badge/Project3-black?style=for-the-badge)](https://qr-bar-code-generator.onrender.com/) [![Project 4](https://img.shields.io/badge/Project4-green?style=for-the-badge)](https://gpa-calculator-qk2d.onrender.com/)
 
 
 
