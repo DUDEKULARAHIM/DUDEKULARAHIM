@@ -1,5 +1,10 @@
 <!-- Dark Mode Toggle -->
 
+# 📄 Resume
+[![Resume](https://img.shields.io/badge/View%20My-Resume-blue?style=for-the-badge)](https://lpu-students-details.onrender.com/)
+
+
+
 
 <p align="center">
   <svg width="100%" height="100">
