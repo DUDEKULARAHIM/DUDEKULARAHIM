@@ -11,7 +11,7 @@
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on SDE<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Kotlin language<br>💬 Ask me about something that your looking for<br>⚡ Fun fact
+🔭 I’m currently working on the role of SDE<br>👯 I’m looking to collaborate on reputated company which i can learn more industry based skills<br>🤝 I’m looking for help with code and supporting for big projects<br>🌱 I’m currently learning dotnet, django language<br>💬 Ask me about something that your looking for more about me<br>⚡ Fun fact
 
 ---
 
