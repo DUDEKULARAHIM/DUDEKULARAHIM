@@ -10,12 +10,11 @@
 <h1 align="center">Hi 👋, I'm Dudekula Rahim</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+<p align="center"><img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
 
-<p align="left">
+
 # 💫 About Me:
 🔭 I’m currently working on the role of SDE<br>👯 I’m looking to collaborate on reputated company which i can learn more industry based skills<br>🤝 I’m looking for help with code and supporting for big projects<br>🌱 I’m currently learning dotnet, django language<br>💬 Ask me about something that your looking for more about me<br>⚡ Fun fact
-</p>
 ---
 
 
