@@ -21,7 +21,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impriive_king) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dudekula-rahim-a32429253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahim@gmail.com) 
-<a href="https://www.instagram.com/avi_as/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
+
 
 
 <h3 align="center">Connect with me:</h3>
