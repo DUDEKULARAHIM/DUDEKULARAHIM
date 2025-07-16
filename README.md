@@ -21,6 +21,22 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/impriive_king) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dudekula-rahim-a32429253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahim@gmail.com) 
+<a href="https://www.instagram.com/avi_as/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhinandan-sah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinandan-sah" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20596386/abhinandan-sah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20596386/abhinandan-sah" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/i_m_abhinandan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_m_abhinandan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abhinandan_sah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhinandan_sah" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhinandan_sah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhinandan_sah/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abhinandan_sah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhinandan_sah" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhinandansah222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhinandansah222" height="30" width="40" /></a>
+
+</p>
+
 
 
 
